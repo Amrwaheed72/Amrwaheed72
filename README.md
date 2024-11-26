@@ -15,10 +15,10 @@ I'm a passionate **Full-Stack Web Developer** specializing in the **MERN Stack**
 ![Amr Waheed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amrwaheed72&show_icons=true&theme=radical)
 ## 📈 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrwaheed72&layout=compact&theme=radical)
-## 📈 Total Contributions & Summary
-![Amr's Contributions](https://github-readme-stats.vercel.app/api?username=Amrwaheed72&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
 ## 📈 Contribution Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=Amrwaheed72&theme=radical&hide_border=true)
+## 📈 Total Contributions & Summary
+![Amr's Contributions](https://github-readme-stats.vercel.app/api?username=Amrwaheed72&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
 
 
 
