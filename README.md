@@ -26,6 +26,6 @@ I'm a passionate **Full-Stack Web Developer** specializing in the **MERN Stack**
 Feel free to reach out if you'd like to collaborate or just say hi!
 - 💻 **Portfolio Website**: [Coming Soon!]
 - ✉️ **Email**: (amrmohamed877@gmail.com)
-- 🔗 **LinkedIn**: [linkedin.com/in/amr-waheed]([https://linkedin.com/in/amr-waheed](https://www.linkedin.com/in/amr-waheed-4374a9288))
+- 🔗 **LinkedIn**: (https://www.linkedin.com/in/amr-waheed-4374a9288)
 
 ---
