@@ -24,7 +24,7 @@ I'm a passionate **Full-Stack Web Developer** specializing in the **MERN Stack**
 
 ## 📬 Connect with Me
 Feel free to reach out if you'd like to collaborate or just say hi!
-- 💻 **Portfolio Website**: [Coming Soon!]
+- 💻 **Portfolio Website**: (https://amr-portfolio-not-completed.netlify.app/)
 - ✉️ **Email**: (amrmohamed877@gmail.com)
 - 🔗 **LinkedIn**: (https://www.linkedin.com/in/amr-waheed-4374a9288)
 
